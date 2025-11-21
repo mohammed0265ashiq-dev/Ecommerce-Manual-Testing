@@ -1,0 +1,42 @@
+Project Name: E-Commerce Web Application – Manual Testing
+🔹 Project Overview
+
+This project focuses on testing core modules of an e-commerce web application including Login, Search, Product Details, Add to Cart, and Payment.
+
+🔹 Tools Used
+
+Jira
+
+Excel
+
+Postman
+
+Chrome DevTools
+
+🔹 Documents Included
+
+✔ Test Plan
+✔ Test Scenarios
+✔ Test Cases
+✔ Bug Report
+✔ RTM
+✔ Test Summary Report
+✔ Screenshots
+
+🔹 Test Coverage
+
+Functional Testing
+
+Regression Testing
+
+UI/UX Testing
+
+Smoke & Sanity Testing
+
+🔹 Key Outcomes
+
+Detected 18 defects (High, Medium, Low)
+
+Prepared detailed execution & summary reports
+
+Improved test coverage by 90%
